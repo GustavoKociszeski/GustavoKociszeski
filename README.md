@@ -24,7 +24,7 @@ Mini-jogo desenvolvido com HTML5 Canvas, CSS e JavaScript puro.
 O usuário escolhe o canto do chute enquanto o goleiro decide 
 aleatoriamente para qual lado se jogar, com placar de gols e 
 defesas atualizado em tempo real.
-🔗 [Ver repositório]((https://github.com/GustavoKociszeski/GustavoKociszeski))
+🔗 [Ver repositório](https://github.com/GustavoKociszeski/GustavoKociszeski)
 
 ## 📫 Como me encontrar
 
