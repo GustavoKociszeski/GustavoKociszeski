@@ -28,4 +28,4 @@ defesas atualizado em tempo real.
 
 ## 📫 Como me encontrar
 
-- [LinkedIn]((https://www.linkedin.com/in/gustavo-vinicius-de-lima-kociszeski-742971427/))
+- [LinkedIn](https://www.linkedin.com/in/gustavo-vinicius-de-lima-kociszeski-742971427/)
