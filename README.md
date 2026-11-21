@@ -7,7 +7,7 @@ na área e documentando meu aprendizado através de projetos práticos.
 ## 🚀 Sobre mim
 
 - 🔭 Atualmente aprendendo e praticando **HTML5, CSS3 e JavaScript**
-- 🌱 Estudando também os fundamentos de **Node.js**
+- 🌱 Estudando também os fundamentos de **Node.js**, **Next** e **React**
 - 💡 Interesse principal: criar interfaces intuitivas, funcionais e 
   bem construídas
 - 🤝 Aberto a projetos, trocas de conhecimento e oportunidades de 
@@ -15,7 +15,7 @@ na área e documentando meu aprendizado através de projetos práticos.
 
 ## 🛠️ Stack e ferramentas
 
-`HTML5` `CSS3` `JavaScript` `Node.js` `Git`
+`HTML5` `CSS3` `JavaScript` `Node.js` `Git` `Next` `React`
 
 ## 📌 Projetos em destaque
 
